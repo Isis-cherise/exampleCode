@@ -1,2 +1,2 @@
-# exampleCode
-All my examples 
+# mycodes
+Starting code
